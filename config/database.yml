@@ -1,0 +1,14 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: docker_practice
+  pool: 5
+  username: ammadjahangir
+  password: 3644899102$CFD@
+  host: localhost
+  DATABASE_PORT: 5432
+  encoding: utf8
+  min_messages: warning
+  pool: 2
+  timeout: 5000
+  port: 5432
